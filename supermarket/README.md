@@ -14,10 +14,10 @@ un paquete de algo en la mano.
 Y como ve que su madre ha terminado y casi va a pagar, desiste y se pone detrás
 de mí. Porque piensa que es lo *justo*: esperar cuando tu turno ha terminado.
 
-Sin embargo, le dejo pasar porque yo pienso que lo *correcto*.
+Sin embargo, le dejo pasar porque yo pienso que es lo *correcto*.
 
-¿Cuál es la diferencia entre lo *justo* y lo *correcto* para los siguientes
-actores?:
+¿Cuál es la diferencia (o sea, que pienso yo que es *justo* y qué *correcto*) 
+para los siguientes actores?:
    - El supermercado como empresa que necesita facturar lo máximo en las horas
      que tiene abierto
    - El cajero que tiene que facturar lo máximo y trabajar lo mínimo
